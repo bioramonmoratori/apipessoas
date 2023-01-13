@@ -65,7 +65,7 @@ A URI principal onde estão reunidos todos os endpoints é **http://localhost:80
     ]
 }
 ```
-
+----------------------------------------------------------------------------------------
 ### Endereços:
 
 - `GET`  "/listarenderecos/{ID}" : *Listar endereços passando ID de uma pessoa*
