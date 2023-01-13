@@ -95,3 +95,13 @@ A URI principal onde estão reunidos todos os endpoints é **http://localhost:80
 
 }
 ```
+
+## Status Code
+
+- `200`: Funcionalidade realizada com sucesso.
+- `400`: Requisição não realizada (exception tratada pelo código). Caso esteja enviando um JSON, certifique-se de que não haja erros de digitação.
+
+## Contatos
+
+- `LinkedIn` : https://www.linkedin.com/in/ramon-moratori-86a558243/
+- `E-mail` : ramon.moratori@estudante.ufjf.br
